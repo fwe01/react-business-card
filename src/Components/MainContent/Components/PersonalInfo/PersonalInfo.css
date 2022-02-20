@@ -1,0 +1,68 @@
+.personal-info {
+	text-align: center;
+}
+
+.personal-info > hr {
+	border : 2px solid #F3BF99;
+	opacity: unset;
+}
+
+.personal-info > h2 {
+	color: white;
+	font-family: Inter, sans-serif;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.personal-info > h3 {
+	color: #F3BF99;
+	font-family: Inter, sans-serif;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.personal-info > h5 {
+	color: white;
+	font-family: Inter, sans-serif;
+	font-weight: normal;
+	margin-top: 10px;
+}
+
+.personal-info > h5 > a {
+	color: white;
+	text-decoration: none;
+}
+
+.personal-info > h5 > a:link {
+	color: white;
+	text-decoration: none;
+}
+
+.personal-info > h5 > a:active {
+	color: white;
+	text-decoration: none;
+}
+
+.personal-info > h5 > a:visited {
+	color: white;
+	text-decoration: none;
+}
+
+.personal-info > h5 > a:hover {
+	color: #F3BF99;
+	text-decoration: none;
+}
+
+.personal-info > .links {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.personal-info > .links > .btn {
+	display: flex;
+	width: 130px;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
